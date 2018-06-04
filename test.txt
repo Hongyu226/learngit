@@ -1,1 +1,3 @@
-this is a test file for git learning
+This is a test file for git learning.
+
+Git is a distributed version control system.
